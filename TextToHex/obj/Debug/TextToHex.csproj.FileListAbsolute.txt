@@ -1,0 +1,10 @@
+C:\Users\fille\source\repos\TextToHex\TextToHex\bin\Debug\TextToHex.exe.config
+C:\Users\fille\source\repos\TextToHex\TextToHex\bin\Debug\TextToHex.exe
+C:\Users\fille\source\repos\TextToHex\TextToHex\bin\Debug\TextToHex.pdb
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.FRM_Menu.resources
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.Properties.Resources.resources
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.csproj.GenerateResource.cache
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.csproj.CoreCompileInputs.cache
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.exe
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.pdb
+C:\Users\fille\source\repos\TextToHex\TextToHex\obj\Debug\TextToHex.csproj.AssemblyReference.cache

@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build
+[Bb]in/
+[Oo]bj/
+*.pdb
